@@ -9,7 +9,7 @@
     "precio": 300,
     "id": 2,
     "title": "Portafolio",
-    "thumbnailUrl": "ttps://picsum.photos/id/7/600"
+    "thumbnailUrl": "https://picsum.photos/id/7/600"
   },
   {
     "precio": 100,
